@@ -1,0 +1,6 @@
+{
+  "name": "ARENA-X — Sports Tournament & SQL Visualization System",
+  "description": "Enterprise Java + MySQL Sports Tournament Registration, Score Management & Interactive SQL Visualization System with full schema exploration and tournament algorithms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

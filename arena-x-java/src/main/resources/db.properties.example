@@ -1,0 +1,16 @@
+# ========================================================================
+# ARENA-X: Database Configuration File
+# Copy this file to 'db.properties' and fill in your MySQL credentials
+# ========================================================================
+db.host=localhost
+db.port=3306
+db.database=arena_x_db
+db.username=root
+db.password=YourSecurePasswordHere
+
+# HikariCP Connection Pool Settings
+hikari.maximumPoolSize=10
+hikari.minimumIdle=2
+hikari.idleTimeout=300000
+hikari.connectionTimeout=20000
+hikari.maxLifetime=1200000

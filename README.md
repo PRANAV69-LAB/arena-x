@@ -9,6 +9,8 @@ Built using Java, JavaFX, and MySQL, ARENA-X provides a modern desktop interface
 
 ---
 
+🌐 **Live Demo:** [Check out ARENA-X Live](https://arena-x-henna.vercel.app/)
+
 ## 🚀 Project Overview
 
 Managing sports tournaments manually can be time-consuming and error-prone.
